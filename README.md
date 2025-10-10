@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pirău Tudor-Ioan</h1>
-<h3 align="center">Currently I am a second-year student studying Computer Science at the Faculty of Mathematics and Computer Science.</h3>
+<h3 align="center">Currently I am a third-year student studying Computer Science at the Faculty of Mathematics and Computer Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tudorpiraui&label=Profile%20views&color=0e75b6&style=flat" alt="tudorpiraui" /> </p>
 
